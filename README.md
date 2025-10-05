@@ -174,14 +174,5 @@ np.isinf(arr)
 np.nan_to_num(arr)
 ```
 
-
 ***
-
-This repository covers the core essentials for NumPy, from basic usage to advanced techniques, facilitating both beginner and advanced numerical computing tasks[1][2][3][4].
-
-Citations:
-[1] Python Numpy Tutorial (with Jupyter and Colab) https://cs231n.github.io/python-numpy-tutorial/
-[2] NumPy for Image Processing https://www.kdnuggets.com/numpy-for-image-processing
-[3] NumPy Tutorial https://www.w3schools.com/python/numpy/default.asp
-[4] NumPy: the absolute basics for beginners https://numpy.org/doc/stable/user/absolute_beginners.html
 
